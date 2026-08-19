@@ -1,7 +1,7 @@
 ---
 title: "第156章｜小兒泌尿科腫瘤"
 weight: 156
-section: "pediatric"
+section: "Pediatric Urology"
 ---
 
 # 📖 章節導讀

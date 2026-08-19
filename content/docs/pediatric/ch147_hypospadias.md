@@ -1,7 +1,7 @@
 ---
 title: "147 尿道下裂"
 weight: 147
-section: "小兒泌尿科"
+section: "Pediatric Urology"
 description: "尿道下裂（Hypospadias）"
 ---
 

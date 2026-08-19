@@ -1,7 +1,7 @@
 ---
 title: "137 膀胱輸尿管逆流"
 weight: 137
-section: "小兒泌尿科"
+section: "Pediatric Urology"
 description: "膀胱輸尿管逆流（Vesicoureteral Reflux, VUR）"
 ---
 
