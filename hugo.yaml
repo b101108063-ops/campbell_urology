@@ -1,0 +1,15 @@
+baseURL: "https://b101108063-ops.github.io/campbell_urology/"
+languageCode: zh-TW
+title: Campbell-Walsh Urology 讀書筆記
+paginate: 20
+enableRobotsTXT: true
+
+outputs:
+  home:
+    - HTML
+  page:
+    - HTML
+
+params:
+  description: "Campbell-Walsh Urology 泌尿科讀書筆記"
+  author: "Rocky"
