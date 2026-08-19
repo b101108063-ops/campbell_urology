@@ -2,7 +2,7 @@
 title: "CH122 小兒泌尿生殖系統胚胎學"
 weight: 122
 section: "小兒泌尿科 Pediatric Urology"
-description: "泌尿生殖系統胚胎發育：腎臟、輸尿管、性腺的演化過程與調控機制
+description: "泌尿生殖系統胚胎發育：腎臟、輸尿管、性腺的演化過程與調控機制"
 ---
 
 # CH122 小兒泌尿生殖系統胚胎學

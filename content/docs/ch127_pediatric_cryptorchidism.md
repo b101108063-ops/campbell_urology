@@ -2,7 +2,7 @@
 title: "CH127 小兒泌尿道感染與發炎"
 weight: 127
 section: "小兒泌尿科 Pediatric Urology"
-description: "小兒泌尿道感染的致病機轉、危險因子、診斷標準與治療原則
+description: "小兒泌尿道感染的致病機轉、危險因子、診斷標準與治療原則"
 ---
 
 # CH127 小兒泌尿道感染與發炎

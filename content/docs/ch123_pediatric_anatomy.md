@@ -2,7 +2,7 @@
 title: "CH123 小兒腎功能發育障礙"
 weight: 123
 section: "小兒泌尿科 Pediatric Urology"
-description: "小兒腎臟功能成熟過程、腎絲球濾過率、腎小管功能及液體電解質處置
+description: "小兒腎臟功能成熟過程、腎絲球濾過率、腎小管功能及液體電解質處置"
 ---
 
 # CH123 小兒腎功能發育障礙
