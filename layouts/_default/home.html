@@ -1,20 +1,71 @@
 {{ define "main" }}
-<section>
-  <h1>{{ .Site.Title }}</h1>
-  <p style="background:#f0f9ff;padding:1em;border-radius:6px;border-left:4px solid #60a5fa;">
-    Campbell-Walsch Urology 是泌尿科領域的經典教科書。本筆記涵蓋 156 章完整內容，依主題分為 7 大分類。
+<section style="max-width:800px;margin:0 auto;padding:2rem 1rem;">
+  <h1 style="font-size:2em;margin-bottom:0.5em;border:none;">Campbell-Walsch Urology 讀書筆記</h1>
+  <p style="background:#f0f9ff;padding:1em;border-radius:8px;border-left:4px solid #60a5fa;font-size:1.05em;line-height:1.7;color:#334155;margin-bottom:2em;">
+    泌尿科領域的經典教科書完整 156 章筆記，依主題分為 7 大分類。所有內容已翻譯整理為繁體中文，保留原始英文醫學術語。
   </p>
-  <h2>章節分類</h2>
-  <ul>
-    <li><a href="{{ .Site.BaseURL }}docs/general/">General Principles（一般原則）</a> — 11 章</li>
-    <li><a href="{{ .Site.BaseURL }}docs/infections/">Infections and Inflammation（感染與炎症）</a> — 7 章</li>
-    <li><a href="{{ .Site.BaseURL }}docs/oncology/">Oncology（腫瘤學）</a> — 22 章</li>
-    <li><a href="{{ .Site.BaseURL }}docs/kidney/">Kidney（腎臟）</a> — 25 章</li>
-    <li><a href="{{ .Site.BaseURL }}docs/bladder/">Bladder（膀胱）</a> — 25 章</li>
-    <li><a href="{{ .Site.BaseURL }}docs/prostate/">Prostate（前列腺）</a> — 30 章</li>
-    <li><a href="{{ .Site.BaseURL }}docs/pediatric/">Pediatric Urology（小兒泌尿科）</a> — 35 章</li>
-  </ul>
-  <p style="margin-top:2em;color:#666;font-size:0.9em;">
+
+  <h2 style="font-size:1.3em;margin-bottom:1em;color:#1e293b;">章節分類</h2>
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px;margin-bottom:2em;">
+    <a href="{{ .Site.BaseURL }}docs/general/" style="display:flex;align-items:center;padding:14px 18px;background:#fff;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#1e293b;transition:all 0.2s;" onmouseover="this.style.borderColor='#60a5fa';this.style.background='#f0f9ff';this.style.transform='translateY(-2px)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.background='#fff';this.style.transform='translateY(0)'">
+      <span style="background:#dbeafe;color:#1d4ed8;border-radius:6px;padding:4px 10px;font-size:0.85em;font-weight:700;margin-right:12px;white-space:nowrap;">01</span>
+      <span>
+        <strong style="font-size:1em;">General Principles</strong>
+        <span style="color:#64748b;font-size:0.85em;margin-left:6px;">（一般原則）</span>
+        <span style="color:#94a3b8;font-size:0.8em;display:block;">11 章</span>
+      </span>
+    </a>
+    <a href="{{ .Site.BaseURL }}docs/infections/" style="display:flex;align-items:center;padding:14px 18px;background:#fff;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#1e293b;transition:all 0.2s;" onmouseover="this.style.borderColor='#60a5fa';this.style.background='#f0f9ff';this.style.transform='translateY(-2px)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.background='#fff';this.style.transform='translateY(0)'">
+      <span style="background:#dcfce7;color:#15803d;border-radius:6px;padding:4px 10px;font-size:0.85em;font-weight:700;margin-right:12px;white-space:nowrap;">02</span>
+      <span>
+        <strong style="font-size:1em;">Infections & Inflammation</strong>
+        <span style="color:#64748b;font-size:0.85em;margin-left:6px;">（感染與炎症）</span>
+        <span style="color:#94a3b8;font-size:0.8em;display:block;">7 章</span>
+      </span>
+    </a>
+    <a href="{{ .Site.BaseURL }}docs/oncology/" style="display:flex;align-items:center;padding:14px 18px;background:#fff;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#1e293b;transition:all 0.2s;" onmouseover="this.style.borderColor='#60a5fa';this.style.background='#f0f9ff';this.style.transform='translateY(-2px)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.background='#fff';this.style.transform='translateY(0)'">
+      <span style="background:#fee2e2;color:#b91c1c;border-radius:6px;padding:4px 10px;font-size:0.85em;font-weight:700;margin-right:12px;white-space:nowrap;">03</span>
+      <span>
+        <strong style="font-size:1em;">Oncology</strong>
+        <span style="color:#64748b;font-size:0.85em;margin-left:6px;">（腫瘤學）</span>
+        <span style="color:#94a3b8;font-size:0.8em;display:block;">22 章</span>
+      </span>
+    </a>
+    <a href="{{ .Site.BaseURL }}docs/kidney/" style="display:flex;align-items:center;padding:14px 18px;background:#fff;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#1e293b;transition:all 0.2s;" onmouseover="this.style.borderColor='#60a5fa';this.style.background='#f0f9ff';this.style.transform='translateY(-2px)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.background='#fff';this.style.transform='translateY(0)'">
+      <span style="background:#fef3c7;color:#b45309;border-radius:6px;padding:4px 10px;font-size:0.85em;font-weight:700;margin-right:12px;white-space:nowrap;">04</span>
+      <span>
+        <strong style="font-size:1em;">Kidney</strong>
+        <span style="color:#64748b;font-size:0.85em;margin-left:6px;">（腎臟）</span>
+        <span style="color:#94a3b8;font-size:0.8em;display:block;">25 章</span>
+      </span>
+    </a>
+    <a href="{{ .Site.BaseURL }}docs/bladder/" style="display:flex;align-items:center;padding:14px 18px;background:#fff;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#1e293b;transition:all 0.2s;" onmouseover="this.style.borderColor='#60a5fa';this.style.background='#f0f9ff';this.style.transform='translateY(-2px)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.background='#fff';this.style.transform='translateY(0)'">
+      <span style="background:#e0e7ff;color:#4338ca;border-radius:6px;padding:4px 10px;font-size:0.85em;font-weight:700;margin-right:12px;white-space:nowrap;">05</span>
+      <span>
+        <strong style="font-size:1em;">Bladder</strong>
+        <span style="color:#64748b;font-size:0.85em;margin-left:6px;">（膀胱）</span>
+        <span style="color:#94a3b8;font-size:0.8em;display:block;">25 章</span>
+      </span>
+    </a>
+    <a href="{{ .Site.BaseURL }}docs/prostate/" style="display:flex;align-items:center;padding:14px 18px;background:#fff;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#1e293b;transition:all 0.2s;" onmouseover="this.style.borderColor='#60a5fa';this.style.background='#f0f9ff';this.style.transform='translateY(-2px)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.background='#fff';this.style.transform='translateY(0)'">
+      <span style="background:#fce7f3;color:#be185d;border-radius:6px;padding:4px 10px;font-size:0.85em;font-weight:700;margin-right:12px;white-space:nowrap;">06</span>
+      <span>
+        <strong style="font-size:1em;">Prostate</strong>
+        <span style="color:#64748b;font-size:0.85em;margin-left:6px;">（前列腺）</span>
+        <span style="color:#94a3b8;font-size:0.8em;display:block;">30 章</span>
+      </span>
+    </a>
+    <a href="{{ .Site.BaseURL }}docs/pediatric/" style="display:flex;align-items:center;padding:14px 18px;background:#fff;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#1e293b;transition:all 0.2s;" onmouseover="this.style.borderColor='#60a5fa';this.style.background='#f0f9ff';this.style.transform='translateY(-2px)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.background='#fff';this.style.transform='translateY(0)'">
+      <span style="background:#fdf2f8;color:#9d174d;border-radius:6px;padding:4px 10px;font-size:0.85em;font-weight:700;margin-right:12px;white-space:nowrap;">07</span>
+      <span>
+        <strong style="font-size:1em;">Pediatric Urology</strong>
+        <span style="color:#64748b;font-size:0.85em;margin-left:6px;">（小兒泌尿科）</span>
+        <span style="color:#94a3b8;font-size:0.8em;display:block;">35 章</span>
+      </span>
+    </a>
+  </div>
+
+  <p style="color:#94a3b8;font-size:0.9em;text-align:center;margin-top:1em;">
     共 156 章，持續更新中。
   </p>
 </section>
