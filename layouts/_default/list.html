@@ -6,9 +6,15 @@
 
   <div style="display:grid;gap:8px;margin-top:1em;">
     {{ range .Pages.ByWeight }}
+    {{ $ch := .Weight }}
+    {{ $title := .Title }}
+    {{ $short := $title }}
+    {{ if gt (len $title) 50 }}
+      {{ $short = substr $title 0 47 | printf "%s..." }}
+    {{ end }}
     <a href="{{ .Permalink }}" style="display:flex;align-items:center;padding:12px 16px;background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#1e293b;transition:all 0.2s;" onmouseover="this.style.borderColor='#60a5fa';this.style.background='#f0f9ff';this.style.transform='translateX(4px)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.background='#f8fafc';this.style.transform='translateX(0)'">
-      <span style="background:#dbeafe;color:#1d4ed8;border-radius:6px;padding:3px 8px;font-size:0.8em;font-weight:700;margin-right:14px;min-width:42px;text-align:center;white-space:nowrap;">CH{{ .Weight }}</span>
-      <span style="font-size:0.97em;line-height:1.4;">{{ .Title }}</span>
+      <span style="background:#dbeafe;color:#1d4ed8;border-radius:6px;padding:3px 8px;font-size:0.8em;font-weight:700;margin-right:14px;min-width:42px;text-align:center;white-space:nowrap;">CH{{ $ch }}</span>
+      <span style="font-size:0.97em;line-height:1.4;">{{ $short }}</span>
     </a>
     {{ end }}
   </div>
