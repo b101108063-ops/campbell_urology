@@ -1,5 +1,5 @@
 ---
-title: "第七十二章 男性尿失禁之評估與治療"
+title: "Chapter 72 Evaluation and Management of Men with Urinary Incontinence"
 weight: 72
 section: "Bladder"
 description: "第七十二章 男性尿失禁之評估與治療，含尿动力学檢查、保存性治療與藥物治療"

@@ -1,5 +1,5 @@
 ---
-title: "攝護腺切片技術與影像學"
+title: "Chapter 109 Prostate Biopsy: Techniques and Imaging"
 weight: 109
 section: "Prostate"
 description: "Chapter 109 攝護腺切片技術、超聲波導引切片、經直腸超聲波（TRUS）影像學及攝護腺癌偵測"

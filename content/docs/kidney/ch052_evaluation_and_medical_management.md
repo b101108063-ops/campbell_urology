@@ -1,5 +1,5 @@
 ---
-title: "尿路結石的評估與內科管理"
+title: "Chapter 52 Evaluation and Medical Management of Urinary Lithiasis"
 weight: 52
 section: "Kidney"
 description: "Chapter 52 尿路結石的代謝評估、24小時尿液收集、結石分析與內科治療策略"

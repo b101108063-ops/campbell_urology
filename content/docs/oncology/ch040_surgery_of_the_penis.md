@@ -1,5 +1,5 @@
 ---
-title: "Chapter 40 陰莖與尿道手術"
+title: "Chapter 40 Surgery of the Penis and Urethra"
 weight: 40
 section: "Oncology"
 description: "陰莖與尿道手術之組織移植技術、解剖構造與重建原則"

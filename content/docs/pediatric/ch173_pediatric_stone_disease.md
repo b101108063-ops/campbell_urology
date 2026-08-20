@@ -1,6 +1,6 @@
 ---
-title: "173 兒童結石"
-weight: 173
+title: "Chapter 135 Surgical Management of Pediatric Stone Disease"
+weight: 135
 section: "小兒泌尿科"
 description: "兒童結石手術處理（Surgical Management of Pediatric Stone Disease）"
 ---

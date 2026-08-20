@@ -1,5 +1,5 @@
 ---
-title: "小兒輸尿管手術：腎盂輸尿管接合處阻塞的處理"
+title: "Chapter 133 Surgery of the Ureter in Children"
 weight: 133
 section: "Pediatric Urology"
 description: "Chapter 133 小兒輸尿管手術，涵蓋微創與開放性腎盂成形術的技术要点"

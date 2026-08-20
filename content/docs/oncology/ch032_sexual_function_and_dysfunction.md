@@ -1,5 +1,5 @@
 ---
-title: "Chapter 32 女性性功能與障礙"
+title: "Chapter 32 Sexual Function and Dysfunction in the Female 749.e1"
 weight: 32
 section: "Oncology"
 description: "女性性功能障礙之生理機制、神經支配與治療準則"

@@ -1,5 +1,5 @@
 ---
-title: "惡性腎臟腫瘤：腎細胞癌"
+title: "Chapter 57 Malignant Renal Tumors"
 weight: 57
 section: "Kidney"
 description: "Chapter 57 Malignant Renal Tumors"

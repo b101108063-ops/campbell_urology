@@ -1,5 +1,5 @@
 ---
-title: "148 隱睪症"
+title: "Chapter 148 Etiology, Diagnosis, and Management of the Undescended Testis"
 weight: 148
 section: "小兒泌尿科"
 description: "隱睪症（Undescended Testis）"

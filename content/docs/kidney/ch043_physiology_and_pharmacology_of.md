@@ -1,5 +1,5 @@
 ---
-title: "Chapter 43 腎盂與輸尿管的生理學及藥理學"
+title: "Chapter 43 Physiology and Pharmacology of the Renal Pelvis and Ureter"
 weight: 43
 section: "Kidney"
 description: "腎盂與輸尿管的生理學及藥理學，涵蓋輸尿管發育、平滑肌電生理、動作電位、離子通道及 ICC 細胞的節律控制。"

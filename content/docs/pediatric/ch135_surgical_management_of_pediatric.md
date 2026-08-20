@@ -1,5 +1,5 @@
 ---
-title: "小兒結石手術管理"
+title: "Chapter 135 Surgical Management of Pediatric Stone Disease"
 weight: 135
 section: "Pediatric Urology"
 description: "Chapter 135 小兒尿路結石的影像評估、保守治療、體外震波碎石術與輸尿管鏡治療"

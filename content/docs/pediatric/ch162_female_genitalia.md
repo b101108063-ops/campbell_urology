@@ -1,5 +1,5 @@
 ---
-title: "第162章｜女性生殖器異常"
+title: "Chapter 149 Management of Abnormalities of the Genitalia in Girls"
 weight: 162
 section: "pediatric"
 ---

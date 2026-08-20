@@ -1,5 +1,5 @@
 ---
-title: "第八十三章 骨盆器官脫垂之陰道與腹部重建手術"
+title: "Chapter 83 Vaginal and Abdominal Reconstructive Surgery for Pelvic Organ Prolapse"
 weight: 83
 section: "Bladder"
 description: "第八十三章 骨盆器官脫垂（Pelvic Organ Prolapse, POP）之解剖學基礎與陰道/腹部重建手術原則"

@@ -1,5 +1,5 @@
 ---
-title: "CH92 膀胱腫瘤"
+title: "Chapter 92 Tumors of the Bladder"
 weight: 92
 section: "Prostate"
 description: "膀胱腫瘤（Bladder Tumors）—涵蓋膀胱上皮癌的流行病學、風險因子、病理與臨床要點"

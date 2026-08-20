@@ -1,5 +1,5 @@
 ---
-title: "CH120 攝護腺癌賀爾蒙治療"
+title: "Chapter 120 Hormonal Therapy for Prostate Cancer"
 weight: 120
 section: "Prostate"
 description: "攝護腺癌賀爾蒙治療（Hormonal Therapy）—涵蓋雄性素軸生物學、LHRH 抑制劑、抗雄激素藥物與去勢抗性機制"

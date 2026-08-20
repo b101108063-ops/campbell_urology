@@ -1,5 +1,5 @@
 ---
-title: "第七十八章 夜尿症"
+title: "Chapter 78 Nocturia"
 weight: 78
 section: "Bladder"
 description: "第七十八章 夜尿症（Nocturia）之系統性評估與治療，含頻率-尿量圖、夜間多尿與行為治療"

@@ -1,5 +1,5 @@
 ---
-title: "第66章 腎上腺手術"
+title: "Chapter 66 Surgery of the Adrenal Glands"
 weight: 66
 section: "Kidney"
 description: "Surgery of the Adrenal Glands"

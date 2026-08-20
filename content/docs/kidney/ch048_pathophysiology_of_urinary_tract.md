@@ -1,5 +1,5 @@
 ---
-title: "第48章 泌尿道阻塞的病理生理學"
+title: "Chapter 48 Pathophysiology of Urinary Tract Obstruction"
 weight: 48
 section: "Kidney"
 description: "泌尿道阻塞的各種影像學診斷工具（超聲、都卜勒、核醫、CT、MRI）的原理、優缺點及臨床應用"

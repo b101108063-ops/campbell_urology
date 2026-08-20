@@ -1,5 +1,5 @@
 ---
-title: "腎上腺疾病：病理生理、評估與內科治療"
+title: "Chapter 65 Pathophysiology, Evaluation, and Medical Management of Adrenal Disorders 1528.e1"
 weight: 65
 section: "Kidney"
 description: "Chapter 65 Pathophysiology, Evaluation, and Medical Management of Adrenal Disorders"

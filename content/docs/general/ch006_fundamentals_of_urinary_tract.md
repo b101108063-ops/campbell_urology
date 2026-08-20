@@ -1,5 +1,5 @@
 ---
-title: "第6章　泌尿系統引流的基本原則"
+title: "Chapter 6 Fundamentals of Urinary Tract Drainage"
 weight: 6
 section: "General Principles"
 description: "Fundamentals of Urinary Tract Drainage — 導尿管選擇、材料鍍膜技術、置入步驟與導尿管相關泌尿道感染（CAUTI）防治之核心原則。"

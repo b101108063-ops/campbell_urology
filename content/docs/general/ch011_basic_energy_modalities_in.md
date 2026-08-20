@@ -1,5 +1,5 @@
 ---
-title: "第十一章　泌尿外科基本能量形式"
+title: "Chapter 11 Basic Energy Modalities in Urologic Surgery"
 weight: 11
 section: "General Principles"
 description: "泌尿外科手術中電燒、超聲刀、激光等能量器械的原理與安全使用"

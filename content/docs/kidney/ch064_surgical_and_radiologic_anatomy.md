@@ -1,5 +1,5 @@
 ---
-title: "第64章 腎上腺的手術與影像解剖"
+title: "Chapter 64 Surgical and Radiologic Anatomy of the Adrenals"
 weight: 64
 section: "Kidney"
 description: "Surgical and Radiologic Anatomy of the Adrenals"

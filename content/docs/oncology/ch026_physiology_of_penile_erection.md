@@ -1,5 +1,5 @@
 ---
-title: "第二十六章 泌尿外科結局研究與醫療經濟學"
+title: "Chapter 26 Physiology of Penile Erection and Pathophysiology of Erectile Dysfunction"
 weight: 26
 section: "Oncology"
 description: "泌尿外科結局研究（Outcomes Research）是系統性評估泌尿系統疾病臨床照護品質、成本效益及資源分配的學問。本章節整理泌尿外科領域的照護變異、醫療品質指標、健康資訊科技、以及NIDDK資助的泌尿系統疾病負擔分析。"

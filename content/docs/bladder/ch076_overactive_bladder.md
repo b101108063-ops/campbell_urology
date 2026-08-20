@@ -1,5 +1,5 @@
 ---
-title: "CH076 - 膀胱過動症 (Overactive Bladder)"
+title: "Chapter 76 Overactive Bladder"
 weight: 76
 section: "Bladder"
 description: "膀胱過動症（OAB）為以急尿、頻尿、夜尿為核心症狀之症候群，其病理生理學涉及感覺神經傳入、逼尿肌收縮控制、與中樞神經系統整合等三大面向。"

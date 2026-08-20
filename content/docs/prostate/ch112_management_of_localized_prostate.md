@@ -1,5 +1,5 @@
 ---
-title: "局部性攝護腺癌之管理"
+title: "Chapter 112 Management of Localized Prostate Cancer"
 weight: 112
 section: "Prostate"
 description: "Chapter 112 局部性攝護腺癌之評估、分期、積極監測、根治性切除術及各種治療方式之選擇原則"

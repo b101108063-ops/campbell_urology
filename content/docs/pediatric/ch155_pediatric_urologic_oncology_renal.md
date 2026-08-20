@@ -1,5 +1,5 @@
 ---
-title: "155 小兒泌尿腫瘤學：腎上腺"
+title: "Chapter 155 Pediatric Urologic Oncology: Renal and Adrenal"
 weight: 155
 section: "Pediatric Urology"
 description: "Chapter 155 Pediatric Urologic Oncology: Renal and Adrenal"

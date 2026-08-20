@@ -1,5 +1,5 @@
 ---
-title: "CH107 攝護腺癌流行病學"
+title: "Chapter 107 Epidemiology, Etiology, and Prevention of Prostate Cancer"
 weight: 107
 section: "Prostate"
 description: "攝護腺癌流行病學（Prostate Cancer Epidemiology）—涵蓋全球發生率、死亡率、風險因子、遺傳學與篩檢影響"

@@ -1,5 +1,5 @@
 ---
-title: "第142章 兒童下泌尿道神經肌肉功能障礙（Neuromuscular Dysfunction of the Lower Urinary Tract in Children）"
+title: "Chapter 142 Neuromuscular Dysfunction of the Lower Urinary Tract in Children"
 weight: 142
 section: "Pediatric Urology"
 description: "兒童下泌尿道神經肌肉功能障礙的評估與處理，特別是脊柱裂（myelomeningocele/MMC）患者的尿路管理，以及早期干預對腎功能保護的重要性。"

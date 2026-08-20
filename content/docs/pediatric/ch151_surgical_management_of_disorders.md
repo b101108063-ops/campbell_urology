@@ -1,5 +1,5 @@
 ---
-title: "性發育差異（DSD）與泄殖腔畸形的手術管理"
+title: "Chapter 151 Surgical Management of Disorders of Sex Development and Cloacal and Anorectal Malformati"
 weight: 151
 section: "Pediatric Urology"
 description: "Chapter 151 性發育差異、泄殖腔畸形與無肛畸形的評估與手術重建原則"

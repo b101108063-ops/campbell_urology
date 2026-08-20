@@ -1,5 +1,5 @@
 ---
-title: "CH22 男性生殖生理學"
+title: "Chapter 22 Male Reproductive Physiology"
 weight: 22
 section: "Oncology"
 description: "Male Reproductive Physiology — 下視丘-腦下垂體-性腺軸、睪丸結構、萊氏細胞、塞托利細胞與精蟲生成"

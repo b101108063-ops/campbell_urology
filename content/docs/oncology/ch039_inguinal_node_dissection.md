@@ -1,5 +1,5 @@
 ---
-title: "Chapter 39 Intraoperative Ultrasound and Inguinal Node Dissection"
+title: "Chapter 39 Inguinal Node Dissection"
 weight: 39
 section: "Oncology"
 description: "Chapter 39 Intraoperative Ultrasound and Inguinal Node Dissection — 陰莖癌腹股溝淋巴結廓清術之讀書筆記"

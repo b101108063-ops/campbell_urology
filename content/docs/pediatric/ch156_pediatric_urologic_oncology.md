@@ -1,5 +1,5 @@
 ---
-title: "第156章｜小兒泌尿科腫瘤"
+title: "Chapter 156 Pediatric Urologic Oncology: Bladder and Testis"
 weight: 156
 section: "Pediatric Urology"
 ---

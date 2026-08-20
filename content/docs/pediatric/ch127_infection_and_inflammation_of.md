@@ -1,5 +1,5 @@
 ---
-title: "CH127 小兒泌尿道感染與發炎"
+title: "Chapter 127 Infection and Inflammation of the Pediatric Genitourinary Tract"
 weight: 127
 section: "Pediatric Urology"
 description: "小兒泌尿道感染的致病機轉、危險因子、診斷標準與治療原則"

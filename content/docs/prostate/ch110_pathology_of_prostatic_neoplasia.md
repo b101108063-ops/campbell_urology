@@ -1,5 +1,5 @@
 ---
-title: "攝護腺腫瘤病理學"
+title: "Chapter 110 Pathology of Prostatic Neoplasia"
 weight: 110
 section: "Prostate"
 description: "Chapter 110 攝護腺新生物之病理學：Gleason 分級系統、切片病理報告、根治性切除標本評估及分期系統"

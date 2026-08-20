@@ -1,5 +1,5 @@
 ---
-title: "CH139 膀胱外翻-尿道上裂複合物"
+title: "Chapter 139 Exstrophy-Epispadias Complex"
 weight: 139
 section: "Pediatric Urology"
 description: "膀胱外翻與尿道上裂之胚胎學基礎、發生率、分類及骨骼、軟組織與生殖系統之解剖異常。"

@@ -1,5 +1,5 @@
 ---
-title: "第九章 血尿的評估與處理"
+title: "Chapter 9 Evaluation and Management of Hematuria"
 weight: 9
 section: "General Principles"
 description: "血尿（Hematuria）是泌尿科最常見的臨床表現之一，從無症狀顯微鏡下血尿到明顯的肉眼可見血尿，皆可能是嚴重泌尿系統疾病的早期徵兆。本章系統性整理血尿的危險因子、篩檢策略、診斷流程及最新治療指引。"

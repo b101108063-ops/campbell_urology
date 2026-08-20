@@ -1,5 +1,5 @@
 ---
-title: "第44章 腎臟生理學與病理生理學"
+title: "Chapter 44 Renal Physiology and Pathophysiology"
 weight: 44
 section: "Kidney"
 description: "腎絲球濾過率、腎血流調控、红血球生成與骨質礦物質代謝的完整整理"

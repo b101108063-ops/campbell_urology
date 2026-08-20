@@ -1,5 +1,5 @@
 ---
-title: "第20章　組織工程原理"
+title: "Chapter 20 Principles of Tissue Engineering"
 weight: 20
 section: "Oncology"
 description: "Principles of Tissue Engineering — 胚胎幹細胞、體細胞核轉移、治療性克隆、誘導性多功能幹細胞及羊水幹細胞之來源比較與再生醫學應用。"

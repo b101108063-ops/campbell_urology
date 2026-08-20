@@ -1,6 +1,6 @@
 ---
-title: "ch167 兒童下尿路神經肌肉障礙"
-weight: 167
+title: "Chapter 142 Neuromuscular Dysfunction of the Lower Urinary Tract in Children"
+weight: 142
 section: "兒科學"
 description: "神經性膀胱的病因、分類與管理"
 ---

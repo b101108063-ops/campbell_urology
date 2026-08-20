@@ -1,5 +1,5 @@
 ---
-title: "第163章｜隱睪症"
+title: "Chapter 148 Etiology, Diagnosis, and Management of the Undescended Testis"
 weight: 163
 section: "pediatric"
 ---

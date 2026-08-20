@@ -1,5 +1,5 @@
 ---
-title: "泌尿道影像學：CT 與 MRI 基本原理"
+title: "Chapter 2 Urinary Tract Imaging: Basic Principles of Computed Tomography, Magnetic Resonance Imaging"
 weight: 2
 section: "General Principles"
 description: "泌尿道影像學基本原理：電腦斷層、磁振造影與傳統 X 光"

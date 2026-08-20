@@ -1,5 +1,5 @@
 ---
-title: "CH130 上泌尿道先天性異常"
+title: "Chapter 130 Anomalies of the Upper Urinary Tract"
 weight: 130
 section: "Pediatric Urology"
 description: "上泌尿道發育異常之分子機制與臨床表徵，包括腎臟發育不全、分支異常、囊性腎病及性腺相關畸形。"

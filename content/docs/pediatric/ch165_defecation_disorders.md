@@ -1,5 +1,5 @@
 ---
-title: "第165章｜排便障礙"
+title: "Chapter 144 Management of Defecation Disorders"
 weight: 165
 section: "pediatric"
 ---

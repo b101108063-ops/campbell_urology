@@ -1,5 +1,5 @@
 ---
-title: "第138章 兒童膀胱異常（Bladder Anomalies in Children）"
+title: "Chapter 138 Bladder Anomalies in Children"
 weight: 138
 section: "Pediatric Urology"
 description: "兒童膀胱發育異常，包括膀胱發育不良、膀胱發育不全（ agenesis）、臍尿管異常及膀胱憩室等疾病的診斷與治療要點。"

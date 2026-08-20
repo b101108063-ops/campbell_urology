@@ -1,5 +1,5 @@
 ---
-title: "CH080 - 尿失禁之保守治療 (Conservative Management of Urinary Incontinence)"
+title: "Chapter 80 Conservative Management of Urinary Incontinence"
 weight: 80
 section: "Bladder"
 description: "尿失禁之保守治療涵蓋行為治療、骨盆底肌肉訓練（PFMT）、生活型態調整及輔具使用等，為侵入性手術前之第一線治療選擇。本章系統性介紹其適應症、評估工具與臨床執行方法。"

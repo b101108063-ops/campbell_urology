@@ -1,5 +1,5 @@
 ---
-title: "第二十五章 尿路結石：流行病學、病因學與發病機制"
+title: "Chapter 25 Surgical Management of Male Infertility"
 weight: 25
 section: "Oncology"
 description: "尿路結石（Urinary Lithiasis）是泌尿科常見疾病，美國成人盛行率達10.6%（男性）與7.1%（女性）。本章節系統性整理結石疾病的流行病學分布、種族差異、性別差異、地理環境影響因子，以及肥胖、糖尿病、心血管疾病等共病關聯。"

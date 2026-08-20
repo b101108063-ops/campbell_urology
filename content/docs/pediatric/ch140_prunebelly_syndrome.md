@@ -1,5 +1,5 @@
 ---
-title: "第140章 梅乾腹綜合症（Prune-Belly Syndrome）"
+title: "Chapter 140 Prune-Belly Syndrome"
 weight: 140
 section: "Pediatric Urology"
 description: "梅乾腹綜合症（Prune-Belly Syndrome/PBS）為罕見先天性疾病，涵蓋腹壁缺陷、泌尿道擴張及隱睪三大特徵，並探討其產前診斷、病理生理及多系統併發症。"

@@ -1,5 +1,5 @@
 ---
-title: "Ch068 男性骨盆解剖與功能"
+title: "Chapter 68 Surgical, Radiographic, and Endoscopic Anatomy of the Male Pelvis"
 weight: 68
 section: "Bladder"
 description: "男性骨盆手術、放射與內視鏡解剖學"

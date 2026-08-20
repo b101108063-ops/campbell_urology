@@ -1,5 +1,5 @@
 ---
-title: "第47章 腎臟移植"
+title: "Chapter 47 Renal Transplantation"
 weight: 47
 section: "Kidney"
 description: "腎移植候選者評估、移植前泌尿科處置、捐贈者類型及器官保存的完整整理"

@@ -1,5 +1,5 @@
 ---
-title: "Chapter 59 後腹腔腫瘤"
+title: "Chapter 59 Retroperitoneal Tumors"
 weight: 59
 section: "Kidney"
 description: "後腹腔腫瘤的分類、病理學、臨床表現、切片檢查原則及手術治療原則，涵蓋脂肪肉瘤、平滑肌肉瘤等間質細胞腫瘤。"

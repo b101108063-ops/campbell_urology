@@ -1,5 +1,5 @@
 ---
-title: "Chapter 38 尿道腫瘤"
+title: "Chapter 38 Tumors of the Urethra"
 weight: 38
 section: "Oncology"
 description: "尿道腫瘤之手術治療、化學治療及多模式療法"

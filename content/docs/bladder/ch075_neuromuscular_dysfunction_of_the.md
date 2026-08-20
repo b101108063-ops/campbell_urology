@@ -1,5 +1,5 @@
 ---
-title: "CH75 下泌尿道的神經肌肉功能障礙"
+title: "Chapter 75 Neuromuscular Dysfunction of the Lower Urinary Tract"
 weight: 75
 section: "Bladder"
 description: "各類神經損傷導致的下尿道功能障礙，包括腦血管意外、脊髓損傷、周邊神經病變，以及神經可塑性的臨床意義。"

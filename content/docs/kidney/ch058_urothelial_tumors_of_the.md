@@ -1,5 +1,5 @@
 ---
-title: "第58章 上泌尿道泌尿上皮腫瘤"
+title: "Chapter 58 Urothelial Tumors of the Upper Urinary Tract and Ureter"
 weight: 58
 section: "Kidney"
 description: "上泌尿道泌尿上皮癌（UTUC）的流行病學、復發模式、分期預後及膀胱與上泌尿道腫瘤的時序關係"

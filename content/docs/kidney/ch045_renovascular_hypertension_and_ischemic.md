@@ -1,5 +1,5 @@
 ---
-title: "腎血管性高血壓與缺血性腎病變"
+title: "Chapter 45 Renovascular Hypertension and Ischemic Nephropathy"
 weight: 45
 section: "Kidney"
 description: "Chapter 45 腎血管性高血壓與缺血性腎病變的病理生理學、診斷與治療要點"

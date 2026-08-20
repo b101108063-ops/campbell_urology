@@ -1,5 +1,5 @@
 ---
-title: "第61章 腎臟微創手術（腹腔鏡與機器人輔助）"
+title: "Chapter 61 Laparoscopic and Robotic Surgery of the Kidney"
 weight: 61
 section: "Kidney"
 description: "Laparoscopic and Robotic Surgery of the Kidney"

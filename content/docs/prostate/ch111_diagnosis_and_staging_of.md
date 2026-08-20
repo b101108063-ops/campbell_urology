@@ -1,5 +1,5 @@
 ---
-title: "CH111 攝護腺癌診斷"
+title: "Chapter 111 Diagnosis and Staging of Prostate Cancer"
 weight: 111
 section: "Prostate"
 description: "攝護腺癌診斷（Prostate Cancer Diagnosis）—涵蓋 PSA 系列檢查、切片策略、腫瘤標記與分期評估"

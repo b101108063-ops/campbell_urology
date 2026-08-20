@@ -1,5 +1,5 @@
 ---
-title: "146 - 男孩外生殖器異常"
+title: "Chapter 146 Management of Abnormalities of the External Genitalia in Boys 3368.e1"
 section: "Pediatric Urology"
 description: "Chapter 146 男孩外生殖器異常的處理 (Management of Abnormalities of the External Genitalia in Boys)"
 weight: 146

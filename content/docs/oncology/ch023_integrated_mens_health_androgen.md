@@ -1,5 +1,5 @@
 ---
-title: "第23章　整合男性健康：雄性激素缺乏、心血管風險與代謝症候群"
+title: "Chapter 23 Integrated Men’s Health: Androgen Deficiency, Cardiovascular Risk, and Metabolic Syndrome"
 weight: 23
 section: "Oncology"
 description: "Integrated Men's Health — 雄性激素缺乏（AD）之病因學、診斷工具（ADAM、AMS問卷）、血清生化閾值與系統性疾病之關聯。"

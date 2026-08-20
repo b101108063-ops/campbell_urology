@@ -1,6 +1,6 @@
 ---
-title: "170 膀胱輸尿管逆流"
-weight: 170
+title: "Chapter 137 Vesicoureteral Reflux"
+weight: 137
 section: "小兒泌尿科"
 description: "膀胱輸尿管逆流（Vesicoureteral Reflux, VUR）"
 ---

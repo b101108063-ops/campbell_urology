@@ -1,5 +1,5 @@
 ---
-title: "Chapter 42 腎臟與輸尿管的手術、放射及內視鏡解剖學"
+title: "Chapter 42 Surgical, Radiologic, and Endoscopic Anatomy of the Kidney and Ureter 967.e1"
 weight: 42
 section: "Kidney"
 description: "腎臟與輸尿管的手術、放射及內視鏡解剖學，涵蓋腎臟皮質、髓質、腎元、腎盂腎盞系統及放射影像學特徵。"

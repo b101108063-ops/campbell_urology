@@ -1,5 +1,5 @@
 ---
-title: "CH123 小兒腎功能發育障礙"
+title: "Chapter 123 Disorders of Renal Functional Development in Children"
 weight: 123
 section: "Pediatric Urology"
 description: "小兒腎臟功能成熟過程、腎絲球濾過率、腎小管功能及液體電解質處置"

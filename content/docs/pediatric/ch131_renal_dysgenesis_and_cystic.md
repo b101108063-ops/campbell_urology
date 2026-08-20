@@ -1,5 +1,5 @@
 ---
-title: "CH131 兒童膀胱異常"
+title: "Chapter 131 Renal Dysgenesis and Cystic Disease of the Kidney"
 weight: 131
 section: "Pediatric Urology"
 description: "腎臟發育不良與囊性疾病"

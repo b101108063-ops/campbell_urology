@@ -1,5 +1,5 @@
 ---
-title: "第128章 小兒圍手術期管理核心原則"
+title: "Chapter 128 Core Principles of Perioperative Management in Children"
 weight: 128
 section: "Pediatric Urology"
 description: "小兒泌尿外科手術的圍手術期液體管理、麻醉前評估、生長發育特徵及抗生素預防原則"

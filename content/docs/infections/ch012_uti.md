@@ -1,5 +1,5 @@
 ---
-title: "12 尿路感染"
+title: "Chapter 12 Infections of the Urinary Tract"
 weight: 12
 section: "Infections and Inflammation"
 description: "尿路感染（Urinary Tract Infection, UTI）"

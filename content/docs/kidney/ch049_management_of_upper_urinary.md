@@ -1,5 +1,5 @@
 ---
-title: "上泌尿道阻塞的管理"
+title: "Chapter 49 Management of Upper Urinary Tract Obstruction"
 weight: 49
 section: "Kidney"
 description: "Chapter 49 輸尿管腎盂接合處阻塞（UPJO）的病因、診斷與治療策略"

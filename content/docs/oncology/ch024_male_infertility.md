@@ -1,5 +1,5 @@
 ---
-title: "第24章　男性不孕症"
+title: "Chapter 24 Male Infertility"
 weight: 24
 section: "Oncology"
 description: "Male Infertility — 男性不孕症之評估流程、精液分析、系統性疾病與藥物影響、毒素暴露、溫度對精子生成之影響。"

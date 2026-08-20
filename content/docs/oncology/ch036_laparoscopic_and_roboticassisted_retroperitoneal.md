@@ -1,5 +1,5 @@
 ---
-title: "Chapter 36 Complications of Urologic Cancer Treatment"
+title: "Chapter 36 Laparoscopic and Robotic-Assisted Retroperitoneal Lymphadenectomy for Testicular Tumors"
 weight: 36
 section: "Oncology"
 description: "Chapter 36 Complications of Urologic Cancer Treatment — 泌尿男生殖器癌症治療併發症之讀書筆記"

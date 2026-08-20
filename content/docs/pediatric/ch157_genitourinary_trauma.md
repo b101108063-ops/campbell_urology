@@ -1,6 +1,6 @@
 ---
-title: "157 小兒泌尿生殖創傷"
-weight: 157
+title: "Chapter 154 Pediatric Genitourinary Trauma"
+weight: 154
 section: "小兒泌尿科"
 description: "小兒泌尿生殖創傷（Pediatric Genitourinary Trauma）"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "泌尿科病史與理學檢查"
+title: "Chapter 1 Evaluation of the Urologic Patient: History, Physical Examination, and Urinalysis"
 weight: 1
 section: "General Principles"
 description: "泌尿科患者評估：病史、理學檢查與尿液分析"

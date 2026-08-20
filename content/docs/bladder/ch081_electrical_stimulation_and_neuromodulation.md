@@ -1,5 +1,5 @@
 ---
-title: "第八十一章 儲尿與排尿障礙之電刺激與神經調節治療"
+title: "Chapter 81 Electrical Stimulation and Neuromodulation in Storage and Emptying Failure"
 weight: 81
 section: "Bladder"
 description: "第八十一章 電刺激與神經調節（Neuromodulation）用於治療儲尿障礙（OAB）與排尿障礙（UR）"

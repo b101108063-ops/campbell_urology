@@ -1,6 +1,6 @@
 ---
-title: "ch166 兒童下尿路功能障礙"
-weight: 166
+title: "Chapter 136 Development and Assessment of Lower Urinary Tract Function"
+weight: 136
 section: "兒科學"
 description: "兒童白天尿失禁與夜間遺尿的評估與治療"
 ---

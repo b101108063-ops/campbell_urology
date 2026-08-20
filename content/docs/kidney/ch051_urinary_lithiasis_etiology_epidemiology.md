@@ -1,5 +1,5 @@
 ---
-title: "泌尿結石：病因學、流行病學與發病機制"
+title: "Chapter 51 Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis"
 weight: 51
 section: "Kidney"
 description: "Chapter 51 Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis"

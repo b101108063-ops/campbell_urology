@@ -1,5 +1,5 @@
 ---
-title: "腎衰竭的病因、發病機制與處理"
+title: "Chapter 46 Etiology, Pathogenesis, and Management of Renal Failure"
 weight: 46
 section: "Kidney"
 description: "Chapter 46 急性腎損傷（AKI）的病因分類、病理機制與臨床處理要點"

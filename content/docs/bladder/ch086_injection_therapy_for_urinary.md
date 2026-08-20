@@ -1,5 +1,5 @@
 ---
-title: "Ch086 尿失禁注射治療"
+title: "Chapter 86 Injection Therapy for Urinary Incontinence"
 weight: 86
 section: "Bladder"
 description: "尿道填充劑注射治療應力性尿失禁：材料學、技術與療效"

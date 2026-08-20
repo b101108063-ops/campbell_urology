@@ -1,5 +1,5 @@
 ---
-title: "Chapter 62 腎臟腫瘤的非手術局部治療"
+title: "Chapter 62 Nonsurgical Focal Therapy for Renal Tumors"
 weight: 62
 section: "Kidney"
 description: "腎臟腫瘤的非手術局部治療，涵蓋冷凍消融術（Cryoablation）及射頻消融術（RFA）的原理、技術細節、術中監測及臨床應用。"

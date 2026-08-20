@@ -1,5 +1,5 @@
 ---
-title: "CH122 泌尿生殖道胚胎學"
+title: "Chapter 122 Embryology of the Genitourinary Tract"
 weight: 122
 section: "小兒泌尿科 (Pediatric Urology)"
 description: "泌尿生殖道發育之胚胎學基礎，包括腎臟、輸尿管、膀胱與性腺的胚胎分化過程。"

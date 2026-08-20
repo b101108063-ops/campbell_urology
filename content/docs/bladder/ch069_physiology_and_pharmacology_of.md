@@ -1,5 +1,5 @@
 ---
-title: "膀胱與尿道：生理學與藥理學"
+title: "Chapter 69 Physiology and Pharmacology of the Bladder and Urethra"
 weight: 69
 section: "Bladder"
 description: "Chapter 69 Physiology and Pharmacology of the Bladder and Urethra"

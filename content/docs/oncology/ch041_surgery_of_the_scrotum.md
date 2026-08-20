@@ -1,5 +1,5 @@
 ---
-title: "Chapter 41 陰囊與精囊手術"
+title: "Chapter 41 Surgery of the Scrotum and Seminal Vesicles"
 weight: 41
 section: "Oncology"
 description: "陰囊手術、輸精管切除術技術及Fournier壞疽之處理"

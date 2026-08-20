@@ -1,5 +1,5 @@
 ---
-title: "泌尿科內視鏡學原則"
+title: "Chapter 7 Principles of Urologic Endoscopy"
 weight: 7
 section: "General Principles"
 description: "泌尿科內視鏡學原理與臨床應用"

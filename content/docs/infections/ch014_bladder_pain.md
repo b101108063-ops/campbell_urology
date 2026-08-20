@@ -1,5 +1,5 @@
 ---
-title: "14 膀胱疼痛症候群（間質性膀胱炎）"
+title: "Chapter 14 Bladder Pain Syndrome (Interstitial Cystitis) and Related Disorders"
 weight: 14
 section: "Infections and Inflammation"
 description: "膀胱疼痛症候群（Bladder Pain Syndrome, BPS）/間質性膀胱炎（Interstitial Cystitis, IC）"

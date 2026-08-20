@@ -1,5 +1,5 @@
 ---
-title: "第164章｜男性外生殖器異常"
+title: "Chapter 146 Management of Abnormalities of the External Genitalia in Boys"
 weight: 164
 section: "pediatric"
 ---

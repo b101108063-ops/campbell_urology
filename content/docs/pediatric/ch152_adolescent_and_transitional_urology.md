@@ -1,5 +1,5 @@
 ---
-title: "青少年與過渡期泌尿科"
+title: "Chapter 152 Adolescent and Transitional Urology"
 weight: 152
 section: "Pediatric Urology"
 description: "Chapter 152 青少年泌尿科之過渡歷程、長期共病管理、腎功能追蹤與職業康復"

@@ -1,5 +1,5 @@
 ---
-title: "CH125 小兒泌尿科評估：陰莖、尿道與生殖器症狀"
+title: "Chapter 125 Urologic Evaluation of the Child"
 weight: 125
 section: "Pediatric Urology"
 description: "小兒陰莖、尿道與外生殖器症狀評估：嵌頓包莖、包皮問題、尿道下裂、鞘膜積液與腫瘤"

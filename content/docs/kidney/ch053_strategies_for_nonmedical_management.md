@@ -1,5 +1,5 @@
 ---
-title: "上泌尿道結石的非藥物管理與歷史演進"
+title: "Chapter 53 Strategies for Nonmedical Management of Upper Urinary Tract Calculi 1235.e1"
 weight: 53
 section: "Kidney"
 description: "Chapter 53 腎臟與輸尿管結石的手術治療歷史、體外震波碎石術（SWL）的開發與適應症"

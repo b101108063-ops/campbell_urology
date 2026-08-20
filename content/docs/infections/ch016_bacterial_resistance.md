@@ -1,5 +1,5 @@
 ---
-title: "第十六章　外生殖器皮膚疾病"
+title: "Chapter 16 Cutaneous Diseases of the External Genitalia"
 weight: 16
 section: "Infections and Inflammation"
 description: "外生殖器皮膚疾病的分類、臨床表徵、診斷與治療原則"

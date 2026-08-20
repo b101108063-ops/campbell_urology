@@ -1,5 +1,5 @@
 ---
-title: "Chapter 150: 性發育障礙（DSD）：病因、評估與醫療管理"
+title: "Chapter 150 Disorders of Sexual Development: Etiology, Evaluation, and Medical Management"
 weight: 150
 section: "Pediatric Urology"
 description: "性發育障礙之病因學、臨床評估與內科治療管理"

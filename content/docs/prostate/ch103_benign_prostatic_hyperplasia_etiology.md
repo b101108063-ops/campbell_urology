@@ -1,5 +1,5 @@
 ---
-title: "攝護腺解剖學與良性攝護腺增生之病因學"
+title: "Chapter 103 Benign Prostatic Hyperplasia: Etiology, Pathophysiology, Epidemiology, and Natural Histo"
 weight: 103
 section: "Prostate"
 description: "Chapter 103 攝護腺解剖學結構、良性攝護腺增生（BPH）之病因學、病理生理學、流行病學及自然病史"

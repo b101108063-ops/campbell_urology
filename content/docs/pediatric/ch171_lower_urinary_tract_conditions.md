@@ -1,6 +1,6 @@
 ---
-title: "171 下尿路狀況"
-weight: 171
+title: "Chapter 143 Functional Disorders of the Lower Urinary Tract in Children"
+weight: 143
 section: "小兒泌尿科"
 description: "下尿路狀況（Lower Urinary Tract Conditions）"
 ---

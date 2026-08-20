@@ -1,5 +1,5 @@
 ---
-title: "Ch074 尿失禁與骨盆器官脫垂：流行病學與病理生理學"
+title: "Chapter 74 Urinary Incontinence and Pelvic Prolapse: Epidemiology and Pathophysiology"
 weight: 74
 section: "Bladder"
 description: "尿失禁與骨盆器官脫垂的流行病學、危險因子與病理生理機制"

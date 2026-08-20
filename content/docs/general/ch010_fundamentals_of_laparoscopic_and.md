@@ -1,5 +1,5 @@
 ---
-title: "第十章　腹腔鏡與機械手臂泌尿外科基礎"
+title: "Chapter 10 Fundamentals of Laparoscopic and Robotic Urologic Surgery"
 weight: 10
 section: "General Principles"
 description: "腹腔鏡與機械手臂泌尿外科的手術器械、病人擺位及團隊配置"

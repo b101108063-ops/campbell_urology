@@ -1,5 +1,5 @@
 ---
-title: "第50章 上泌尿道創傷"
+title: "Chapter 50 Upper Urinary Tract Trauma"
 weight: 50
 section: "Kidney"
 description: "腎臟創傷的分級系統、影像學適應症、非手術治療及手術探查的適應症與技術"

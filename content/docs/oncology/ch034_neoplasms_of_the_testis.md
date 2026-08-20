@@ -1,5 +1,5 @@
 ---
-title: "CH34 睪丸腫瘤"
+title: "Chapter 34 Neoplasms of the Testis"
 weight: 34
 section: "Oncology"
 description: "睪丸腫瘤（Testicular Tumors）—涵蓋生殖細胞腫瘤分類、臨床表現、診斷與分期要點"

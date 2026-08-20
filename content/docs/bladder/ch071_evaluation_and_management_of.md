@@ -1,5 +1,5 @@
 ---
-title: "CH71 排尿障礙之評估：尿失禁與骨盆腔器官脫垂"
+title: "Chapter 71 Evaluation and Management of Women with Urinary Incontinence and Pelvic Prolapse"
 weight: 71
 section: "Bladder"
 description: "尿失禁與骨盆腔器官脫垂的完整評估流程，包括病史、理學檢查、影像學分期、神經學檢查及藥物影響。"

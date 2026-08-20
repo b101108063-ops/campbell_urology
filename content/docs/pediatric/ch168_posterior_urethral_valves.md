@@ -1,6 +1,6 @@
 ---
-title: "168 後尿道瓣膜與尿道異常"
-weight: 168
+title: "Chapter 141 Posterior Urethral Valves and Urethral Anomalies"
+weight: 141
 section: "小兒泌尿科"
 description: "後尿道瓣膜（Posterior Urethral Valves, PUV）"
 ---

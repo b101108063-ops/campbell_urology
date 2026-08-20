@@ -1,5 +1,5 @@
 ---
-title: "CH082 - 恥骨後懸吊手術治療女性尿失禁 (Retropubic Suspension Surgery)"
+title: "Chapter 82 Retropubic Suspension Surgery for Incontinence in Women"
 weight: 82
 section: "Bladder"
 description: "恥骨後懸吊手術（Retropubic Suspension）為治療應力性尿失禁（Stress Urinary Incontinence, SUI）之標準術式之一，包括 Burch 陰道懸吊術、Vaginal Obturator Shelf（VOS）修復術與 MMK 手術等。本章系統性比較各術式之適應症與療效。"

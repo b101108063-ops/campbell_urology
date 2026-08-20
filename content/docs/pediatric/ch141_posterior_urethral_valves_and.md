@@ -1,5 +1,5 @@
 ---
-title: "CH141 後尿道瓣膜與尿道異常"
+title: "Chapter 141 Posterior Urethral Valves and Urethral Anomalies"
 weight: 141
 section: "Pediatric Urology"
 description: "後尿道瓣膜之分類、流行病學、病理生理學、診斷方法與長期併發症，包括 Valve Bladder Syndrome。"

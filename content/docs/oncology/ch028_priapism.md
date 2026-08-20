@@ -1,5 +1,5 @@
 ---
-title: "第二十八章 下泌尿道功能障礙的病理生理學與分類"
+title: "Chapter 28 Priapism"
 weight: 28
 section: "Oncology"
 description: "排尿功能障礙（Voiding Dysfunction）涉及膀胱儲尿及排空階段的神經調控複雜性。本章節涵蓋排尿反射的神經徑路、膀胱順應性、尿道阻力、應力相關尿失禁的機制，以及下泌尿道功能障礙的擴展功能分類系統。"

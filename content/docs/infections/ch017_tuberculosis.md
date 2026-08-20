@@ -1,5 +1,5 @@
 ---
-title: "17 結核桿菌與寄生蟲感染"
+title: "Chapter 17 Tuberculosis and Parasitic Infections of the Genitourinary Tract"
 weight: 17
 section: "Infections and Inflammation"
 description: "泌尿生殖道結核桿菌（Tuberculosis, TB）及寄生蟲感染"

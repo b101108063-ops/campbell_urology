@@ -1,5 +1,5 @@
 ---
-title: "Chapter 55 下泌尿道結石"
+title: "Chapter 55 Lower Urinary Tract Calculi"
 weight: 55
 section: "Kidney"
 description: "下泌尿道結石（膀胱結石）的成因、分類、臨床表現及治療方式，涵蓋體內異物、神經性膀胱、移植患者等特殊族群的結石風險。"

@@ -1,5 +1,5 @@
 ---
-title: "第161章｜性發育障礙（DSD）"
+title: "Chapter 150 Disorders of Sexual Development"
 weight: 161
 section: "pediatric"
 ---

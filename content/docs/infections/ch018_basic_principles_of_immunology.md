@@ -1,5 +1,5 @@
 ---
-title: "第十八章　泌尿系統腫瘤免疫學與免疫治療基本原理"
+title: "Chapter 18 Basic Principles of Immunology and Immunotherapy in Urologic Oncology"
 weight: 18
 section: "Infections and Inflammation"
 description: "泌尿系統腫瘤的免疫學機制、免疫編輯假說、免疫檢查點抑制劑之應用"

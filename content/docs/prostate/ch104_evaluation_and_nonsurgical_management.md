@@ -1,5 +1,5 @@
 ---
-title: "良性攝護腺增生之評估與非手術治療"
+title: "Chapter 104 Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia"
 weight: 104
 section: "Prostate"
 description: "Chapter 104 良性攝護腺增生（BPH）之評估方法、症狀量表、尿路動力學檢查及非手術治療選項"

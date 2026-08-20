@@ -1,5 +1,5 @@
 ---
-title: "第132章 先天性泌尿道阻塞：病理生理學"
+title: "Chapter 132 Congenital Urinary Obstruction: Pathophysiology"
 weight: 132
 section: "Pediatric Urology"
 description: "先天性泌尿道阻塞對發育中腎臟的影響機制，包括結構改變、生長調控失衡、細胞凋亡與腎元分化障礙"

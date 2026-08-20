@@ -1,5 +1,5 @@
 ---
-title: "第63章 晚期腎細胞癌的治療"
+title: "Chapter 63 Treatment of Advanced Renal Cell Carcinoma"
 weight: 63
 section: "Kidney"
 description: "Treatment of Advanced Renal Cell Carcinoma"

@@ -1,5 +1,5 @@
 ---
-title: "小兒排糞障礙的評估與處理"
+title: "Chapter 144 Management of Defecation Disorders 3317.e1"
 weight: 144
 section: "Pediatric Urology"
 description: "Chapter 144 小兒便祕與排糞障礙的功能性分類、警示徵象、身體檢查與內科治療原則"

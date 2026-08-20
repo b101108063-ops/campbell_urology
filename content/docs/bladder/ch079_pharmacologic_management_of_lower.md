@@ -1,5 +1,5 @@
 ---
-title: "CH079 - 儲尿與排尿功能障礙之藥物治療 (Pharmacologic Management of LUTS)"
+title: "Chapter 79 Pharmacologic Management of Lower Urinary Tract Storage and Emptying Failure"
 weight: 79
 section: "Bladder"
 description: "本章系統性整理下泌尿道症狀（LUTS）之藥物治療選項，包括抗膽鹼藥物（antimuscarinics）、α-受體阻斷劑、β-腎上腺素受體作用劑等，並探討其藥理學特性與臨床選擇原則。"

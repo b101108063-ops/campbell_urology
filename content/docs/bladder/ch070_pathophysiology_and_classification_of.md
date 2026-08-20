@@ -1,5 +1,5 @@
 ---
-title: "CH70 順應性與排尿障礙：下泌尿道的病理生理學"
+title: "Chapter 70 Pathophysiology and Classification of Lower Urinary Tract Dysfunction: Overview"
 weight: 70
 section: "Bladder"
 description: "下泌尿道的儲尿與排尿神經肌肉調控機制，包括排尿反射、壓力傳導、順應性變化與功能分類。"

@@ -1,5 +1,5 @@
 ---
-title: "CH73 尿路動力學檢查：傳統與影像尿路動力學"
+title: "Chapter 73 Urodynamic and Video-Urodynamic Evaluation of the Lower Urinary Tract"
 weight: 73
 section: "Bladder"
 description: "尿路動力學（UDS）的適應症、定義、術語與臨床應用，包括儲尿與排尿功能障礙的分類及影像尿路動力學。"

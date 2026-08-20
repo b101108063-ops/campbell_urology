@@ -1,5 +1,5 @@
 ---
-title: "CH19 分子遺傳學與癌症生物學"
+title: "Chapter 19 Molecular Genetics and Cancer Biology 459.e1"
 weight: 19
 section: "Oncology"
 description: "Molecular Genetics and Cancer Biology — DNA 結構、基因表現、細胞週期、致癌機制與腫瘤抑制基因"

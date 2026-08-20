@@ -1,5 +1,5 @@
 ---
-title: "Chapter 37 Tumors of the Penis and Scrotal Pathology"
+title: "Chapter 37 Tumors of the Penis 846.e1"
 weight: 37
 section: "Oncology"
 description: "Chapter 37 Tumors of the Penis and Scrotal Pathology — 陰莖與陰囊病理，包括癌前病變、陰莖癌、卡波西氏肉瘤之讀書筆記"

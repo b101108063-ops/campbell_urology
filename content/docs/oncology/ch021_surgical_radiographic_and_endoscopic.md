@@ -1,5 +1,5 @@
 ---
-title: "第21章　男性生殖系統的手術、放射與內視鏡解剖學"
+title: "Chapter 21 Surgical, Radiographic, and Endoscopic Anatomy of the Male Reproductive System"
 weight: 21
 section: "Oncology"
 description: "Surgical, Radiographic, and Endoscopic Anatomy of the Male Reproductive System — 睪丸、副睪、輸精管的血管、神經、淋巴迴流與超音影像學評估。"

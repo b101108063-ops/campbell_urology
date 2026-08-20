@@ -1,5 +1,5 @@
 ---
-title: "CH31 佩羅尼氏病的診斷與治療"
+title: "Chapter 31 Diagnosis and Management of Peyronie Disease"
 weight: 31
 section: "Oncology"
 description: "Peyronie Disease — 流行病學、病理生理、相關共病（糖尿病）、心理影響與治療選項"

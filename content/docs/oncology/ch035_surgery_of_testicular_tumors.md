@@ -1,5 +1,5 @@
 ---
-title: "Chapter 35 睪丸腫瘤手術"
+title: "Chapter 35 Surgery of Testicular Tumors"
 weight: 35
 section: "Oncology"
 description: "睪丸胚細胞腫瘤之腹膜後淋巴結清除術（RPLND）：技術要點與神經保留"

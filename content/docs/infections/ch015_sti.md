@@ -1,5 +1,5 @@
 ---
-title: "15 性傳染病"
+title: "Chapter 15 Sexually Transmitted Diseases"
 weight: 15
 section: "Infections and Inflammation"
 description: "性傳染病（Sexually Transmitted Infections, STIs）"

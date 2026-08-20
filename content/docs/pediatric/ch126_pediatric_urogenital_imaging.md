@@ -1,5 +1,5 @@
 ---
-title: "第126章 小兒泌尿生殖系統影像學"
+title: "Chapter 126 Pediatric Urogenital Imaging"
 weight: 126
 section: "Pediatric Urology"
 description: "小兒泌尿生殖系統影像學的超音波、電腦斷層、磁振造影及功能顯影檢查之臨床應用要點"

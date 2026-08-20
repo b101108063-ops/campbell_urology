@@ -1,5 +1,5 @@
 ---
-title: "CH084 - 懸帶手術：自體、生物材料、合成與中尿道懸帶 (Slings: Autologous, Biologic, Synthetic, and Midurethral)"
+title: "Chapter 84 Slings: Autologous, Biologic, Synthetic, and Midurethral"
 weight: 84
 section: "Bladder"
 description: "懸帶手術（Sling Procedure）為治療應力性尿失禁（Stress Urinary Incontinence, SUI）之核心術式，材料從自體組織（fascia）到合成網片（synthetic mesh）各有優劣。本章系統性介紹各種懸帶材料之特性、適應症與術前評估要點。"

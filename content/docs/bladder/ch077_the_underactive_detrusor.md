@@ -1,5 +1,5 @@
 ---
-title: "第七十七章 逼尿肌活動力不足"
+title: "Chapter 77 The Underactive Detrusor"
 weight: 77
 section: "Bladder"
 description: "第七十七章 逼尿肌活動力不足（Detrusor Underactivity）之定義、流行病學、病理機轉與診斷"

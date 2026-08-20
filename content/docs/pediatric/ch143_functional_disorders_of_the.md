@@ -1,5 +1,5 @@
 ---
-title: "第143章 兒童下泌尿道功能障礙（Functional Disorders of the Lower Urinary Tract in Children）"
+title: "Chapter 143 Functional Disorders of the Lower Urinary Tract in Children"
 weight: 143
 section: "Pediatric Urology"
 description: "兒童下泌尿道功能障礙（LUTD）的診斷與治療，包括膀胱過動症（OAB）、功能性排尿障礙、腸膀胱功能障礙（BBD）以及其與精神神經共病症的關聯。"

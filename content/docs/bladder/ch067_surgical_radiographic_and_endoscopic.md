@@ -1,5 +1,5 @@
 ---
-title: "Ch067 骨盆底肌肉與筋膜解剖"
+title: "Chapter 67 Surgical, Radiographic, and Endoscopic Anatomy of the Female Pelvis"
 weight: 67
 section: "Bladder"
 description: "女性骨盆手術、放射與內視鏡解剖學"

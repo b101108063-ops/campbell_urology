@@ -1,5 +1,5 @@
 ---
-title: "CH27 勃起功能障礙的評估與治療"
+title: "Chapter 27 Evaluation and Management of Erectile Dysfunction"
 weight: 27
 section: "Oncology"
 description: "Erectile Dysfunction — 流行病學、風險因子、診斷評估、目標導向治療與追蹤"
